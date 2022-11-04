@@ -11,5 +11,5 @@ function ransomNote(magazinePage, note) {
     console.log(magArr)
     console.log(noteArr)
 }
-
+//////
 ransomNote(magazinePage, note)
